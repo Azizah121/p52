@@ -1,0 +1,95 @@
+h1{
+    color:blanchedalmond;
+    margin-left: 20px;
+}
+/* *{
+    border:2px solid black;
+} */
+.pictures{
+    display:grid;
+    align-items: center;
+    justify-content: center;
+}
+.secondrow{
+    display:grid;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    color:blanchedalmond;
+    background-color: black;
+}
+
+a:link{
+    color:white;
+}
+a:visited{
+    color:green;
+}
+.camel:hover{
+transform:scale(1.5);
+}
+.camel p{
+    color: black;
+    position:absolute;
+    top:10%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 5;
+}
+
+.chameleon:hover{
+    transform:scale(1.5);
+    }
+    .chameleon p{
+        color:black;
+        position:absolute;
+        top:10%;
+        left:50%;
+        transform:translate(-50%,-50%);
+        opacity: 5;
+    }
+.pigeon:hover{
+  transform:scale(1.5);
+ }
+ .pigeon p{
+    color:black;
+    position:absolute;
+    top:10%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 5;
+}
+ .teddybear:hover{
+     transform:scale(1.5);
+ }
+ .teddybear p{
+    color:black;
+    position:absolute;
+    top:10%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 5;
+}
+ .panda:hover{
+     transform:scale(1.5);
+ }
+ .panda p{
+    color: black;
+    position:absolute;
+    top:10%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 5;
+}
+ .cicada:hover{
+     transform:scale(1.5);
+ }
+ .cicada p{
+     color: black;
+    position:absolute;
+    top:10%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    opacity: 5;
+}
